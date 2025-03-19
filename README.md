@@ -3,7 +3,6 @@
 This repository contains my project submission for my internship at Caresmartz360. It includes a PowerPoint presentation and a video summarizing my contributions, learnings, and experiences during my role as a JSE QA Intern.
 
 ## Repository Contents
-- Presentation: internship_presentation.pptx
 - Video: https://drive.google.com/file/d/12qQGC1xnb1Dmyfe-1uZu5CFHUxo7OMeZ/view?usp=sharing
 
 ## Project Overview
