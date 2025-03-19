@@ -4,7 +4,7 @@ This repository contains my project submission for my internship at Caresmartz36
 
 ## Repository Contents
 - Presentation: internship_presentation.pptx
-- Video: internship_video.mp4
+- Video: https://drive.google.com/file/d/12qQGC1xnb1Dmyfe-1uZu5CFHUxo7OMeZ/view?usp=sharing
 
 ## Project Overview
 As a JSE QA Intern, my role involved:
